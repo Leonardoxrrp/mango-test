@@ -6,7 +6,7 @@ interface UseDragArgs {
 }
 
 interface UseDragReturn {
-  handleRef: React.RefObject<HTMLDivElement>;
+  handleRef: any;
   isDragging: boolean;
 }
 
