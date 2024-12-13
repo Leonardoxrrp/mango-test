@@ -1,0 +1,10 @@
+.container {
+    padding: 2rem;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .loading {
+    text-align: center;
+    margin-top: 2rem;
+  }
